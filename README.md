@@ -1,0 +1,2 @@
+# AKittyDream
+参考模仿Nirome公司开发的网页游戏AKittyDream制作的一款横板2D探索冒险类像素游戏，本项目服务于程序设计实践大作业。
